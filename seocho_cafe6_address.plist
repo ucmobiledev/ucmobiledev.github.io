@@ -2,40 +2,206 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>items</key>
+	<key>cafe6.ipa</key>
 	<array>
 		<dict>
-			<key>assets</key>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>EAE35B295D8723923D966FB7BA712A06C165BCAB</string>
+				<key>dateExpires</key>
+				<string>18/06/2022</string>
+				<key>type</key>
+				<string>iOS Distribution</string>
+			</dict>
+			<key>embeddedBinaries</key>
 			<array>
 				<dict>
-					<key>kind</key>
-					<string>software-package</string>
-					<key>url</key>
-					<string>https://ucmobiledev.github.io/seocho_cafe6_address.ipa</string>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>EAE35B295D8723923D966FB7BA712A06C165BCAB</string>
+						<key>dateExpires</key>
+						<string>18/06/2022</string>
+						<key>type</key>
+						<string>iOS Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>GoogleToolboxForMac.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>9WGYKBFXP2</string>
+						<key>name</key>
+						<string>Uclick Co, Ltd.</string>
+					</dict>
 				</dict>
 				<dict>
-					<key>kind</key>
-					<string>display-image</string>
-					<key>url</key>
-					<string>https://ucmobiledev.github.io/seocho_icon_57.png</string>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>EAE35B295D8723923D966FB7BA712A06C165BCAB</string>
+						<key>dateExpires</key>
+						<string>18/06/2022</string>
+						<key>type</key>
+						<string>iOS Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>Protobuf.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>9WGYKBFXP2</string>
+						<key>name</key>
+						<string>Uclick Co, Ltd.</string>
+					</dict>
 				</dict>
 				<dict>
-					<key>kind</key>
-					<string>full-size-image</string>
-					<key>url</key>
-					<string>https://ucmobiledev.github.io/seocho_icon_512.png</string>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>EAE35B295D8723923D966FB7BA712A06C165BCAB</string>
+						<key>dateExpires</key>
+						<string>18/06/2022</string>
+						<key>type</key>
+						<string>iOS Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>commonlib.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>9WGYKBFXP2</string>
+						<key>name</key>
+						<string>Uclick Co, Ltd.</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>EAE35B295D8723923D966FB7BA712A06C165BCAB</string>
+						<key>dateExpires</key>
+						<string>18/06/2022</string>
+						<key>type</key>
+						<string>iOS Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>communication.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>9WGYKBFXP2</string>
+						<key>name</key>
+						<string>Uclick Co, Ltd.</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>EAE35B295D8723923D966FB7BA712A06C165BCAB</string>
+						<key>dateExpires</key>
+						<string>18/06/2022</string>
+						<key>type</key>
+						<string>iOS Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>entity.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>9WGYKBFXP2</string>
+						<key>name</key>
+						<string>Uclick Co, Ltd.</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>EAE35B295D8723923D966FB7BA712A06C165BCAB</string>
+						<key>dateExpires</key>
+						<string>18/06/2022</string>
+						<key>type</key>
+						<string>iOS Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>nanopb.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>9WGYKBFXP2</string>
+						<key>name</key>
+						<string>Uclick Co, Ltd.</string>
+					</dict>
 				</dict>
 			</array>
-			<key>metadata</key>
+			<key>entitlements</key>
 			<dict>
-				<key>bundle-identifier</key>
-				<string>kr.co.uclick.cafe6</string>
-				<key>bundle-version</key>
-				<string>6.2.1</string>
-				<key>kind</key>
-				<string>software</string>
-				<key>title</key>
-				<string>서초행정전화</string>
+				<key>application-identifier</key>
+				<string>9WGYKBFXP2.kr.co.uclick.cafe6.seocho</string>
+				<key>aps-environment</key>
+				<string>production</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>9WGYKBFXP2</string>
+				<key>get-task-allow</key>
+				<false/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>9WGYKBFXP2.kr.co.uclick.cafe6</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>cafe6.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>d4f9fff0-10e6-4dc0-9ac5-12bdfc3f9c6b</string>
+				<key>name</key>
+				<string>iOS Team Inhouse Provisioning Profile: kr.co.uclick.cafe6.seocho</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>9WGYKBFXP2</string>
+				<key>name</key>
+				<string>Uclick Co, Ltd.</string>
 			</dict>
 		</dict>
 	</array>
