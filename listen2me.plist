@@ -17,25 +17,25 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://ucmobiledev.github.io/hanil-cafe6_57.png</string>
+					<string>https://ucmobiledev.github.io/listen2me-launcher.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://ucmobiledev.github.io/hanil-cafe6_512.png</string>
+					<string>https://ucmobiledev.github.io/listen2me-launcher.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.hanil.mobiletalk</string>
+				<string>kr.co.uclick.harmony</string>
 				<key>bundle-version</key>
-				<string>6.2.8</string>
+				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>한일메신저</string>
+				<string>Listen2Me</string>
 			</dict>
 		</dict>
 	</array>
