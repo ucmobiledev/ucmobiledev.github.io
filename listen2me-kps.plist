@@ -17,13 +17,13 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://ucmobiledev.github.io/listen2me_120.png</string>
+					<string>https://ucmobiledev.github.io/listen2me-kps_120.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://ucmobiledev.github.io/listen2me_180.png</string>
+					<string>https://ucmobiledev.github.io/listen2me-kps_180.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -35,7 +35,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>Listen2Me</string>
+				<string>한전KPS리슨투미</string>
 			</dict>
 		</dict>
 	</array>
