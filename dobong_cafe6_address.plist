@@ -13,12 +13,23 @@
 					<key>url</key>
 					<string>https://ucmobiledev.github.io/dobong_cafe6_address.ipa</string>
 				</dict>
-
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>url</key>
+					<string>https://ucmobiledev.github.io/dobong_cafe6_address_120.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>url</key>
+					<string>https://ucmobiledev.github.io/dobong_cafe6_address_180.png</string>
+				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>kr.co.uclick.cafe6</string>
+				<string>kr.co.uclick.cafe6.dobong</string>
 				<key>bundle-version</key>
 				<string>6.2.1</string>
 				<key>kind</key>
