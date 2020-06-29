@@ -11,14 +11,14 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://ucmobiledev.github.io/seocho_cafe6_address2.ipa</string>
+					<string>https://ucmobiledev.github.io/seocho_cafe6_address.ipa</string>
 				</dict>
 
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>kr.co.uclick.cafe6</string>
+				<string>kr.co.uclick.cafe6.MobileAddr</string>
 				<key>bundle-version</key>
 				<string>6.2.3</string>
 				<key>kind</key>
