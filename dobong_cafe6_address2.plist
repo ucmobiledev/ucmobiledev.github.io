@@ -11,20 +11,31 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://ucmobiledev.github.io/seocho_cafe6_address.ipa</string>
+					<string>https://ucmobiledev.github.io/dobong_cafe6_address.ipa</string>
 				</dict>
-
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>url</key>
+					<string>https://ucmobiledev.github.io/seocho_icon_57.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>url</key>
+					<string>https://ucmobiledev.github.io/seocho_icon_512.png</string>
+				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>kr.co.uclick.cafe6.MobileAddr</string>
+				<string>kr.co.uclick.cafe6</string>
 				<key>bundle-version</key>
-				<string>6.2.3</string>
+				<string>6.2.1</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>서초행정전화</string>
+				<string>도봉구전화번호부</string>
 			</dict>
 		</dict>
 	</array>
