@@ -13,18 +13,6 @@
 					<key>url</key>
 					<string>https://ucmobiledev.github.io/dobong_cafe6_address.ipa</string>
 				</dict>
-				<dict>
-					<key>kind</key>
-					<string>display-image</string>
-					<key>url</key>
-					<string>https://ucmobiledev.github.io/dobong_cafe6_address_120.png</string>
-				</dict>
-				<dict>
-					<key>kind</key>
-					<string>full-size-image</string>
-					<key>url</key>
-					<string>https://ucmobiledev.github.io/dobong_cafe6_address_180.png</string>
-				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
@@ -35,7 +23,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>도봉구</string>
+				<string>이거다이거</string>
 			</dict>
 		</dict>
 	</array>
