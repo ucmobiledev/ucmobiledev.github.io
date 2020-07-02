@@ -17,13 +17,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>kr.co.uclick.cafe6.MobileAddr</string>
+				<string>kr.co.uclick.cafe6.dobong</string>
 				<key>bundle-version</key>
-				<string>6.2.3</string>
+				<string>6.2.1</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>이거다이거</string>
+				<string>도봉구전화번호부</string>
 			</dict>
 		</dict>
 	</array>
