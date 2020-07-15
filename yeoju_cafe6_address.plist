@@ -29,13 +29,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>kr.co.uclick.cafe6.yeoju</string>
+				<string>kr.co.uclick.cafe6.MobileAddr</string>
 				<key>bundle-version</key>
 				<string>6.2.2</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>비상연락망</string>
+				<string>통합비상연락망</string>
 			</dict>
 		</dict>
 	</array>
