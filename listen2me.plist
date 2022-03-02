@@ -29,13 +29,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>kr.co.uclick.harmony</string>
+				<string>com.test.honestails</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>Listen2Me</string>
+				<string>honestails</string>
 			</dict>
 		</dict>
 	</array>
