@@ -4,54 +4,50 @@
       content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no"/>
 
 <head>
-    <link rel="stylesheet" href="css_tabs.css">
-<script type="text/javascript" src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <link rel="stylesheet" href="css_tabs.css"/>
+    <script type="text/javascript" src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <script>
+        $(document).ready(function() {
+            $("#aos").load("aos.html");
+        });
+    </script>
 </head>
 
 <body>
-<div>
-    <hr color="blue">
-    
-    <br> 메신저 - 위변조테스트 <br>
-    <table border="1">
-        <tbody><tr>
-            <td>Build Time</td>
-            <td width="100">Version</td>
-            <td width="100">Download</td>
-        </tr>
+    <div id="css_tabs">
 
-        <tr>
-            <td>20231023 16:00 &nbsp;</td>
-            <td>1.2.5 &nbsp;</td>
-            <td>
-                <a href="itms-services://?action=download-manifest&amp;url=https://ucmobiledev.github.io/nh-cafe6-0228.plist" class="button">Download</a>
-            </td>
-        </tr>
-    </tbody></table>
-    <br>
+        <input id="tab1" type="radio" name="tab" checked="checked" />
+        <label for="tab1">AOS</label>
 
-    <hr color="blue">
+        <input id="tab2" type="radio" name="tab" checked=""/>
+        <label for="tab2">iOS</label>
 
-    <br> 메신저 - 위변조테스트 <br>
-    <table border="1">
-        <tbody><tr>
-            <td>Build Time</td>
-            <td width="100">Version</td>
-            <td width="100">Download</td>
-        </tr>
+        <div id="aos" class="tab1_content"></div>
+        
+        <div id="ios" class="tab2_content">
 
-        <tr>
-            <td>20231023 16:00 &nbsp;</td>
-            <td>1.2.5 &nbsp;</td>
-            <td>
-                <a href="itms-services://?action=download-manifest&amp;url=https://ucmobiledev.github.io/nh-cafe6-0228.plist" class="button">Download</a>
-            </td>
-        </tr>
-    </tbody></table>
-    <br>
+            <br> 메신저 - 위변조테스트 <br>
+            <table border="1">
+                <tbody><tr>
+                    <td>Build Time</td>
+                    <td width="100">Version</td>
+                    <td width="100">Download</td>
+                </tr>
 
-    <hr color="blue">
+                <tr>
+                    <td>20231023 16:00 &nbsp;</td>
+                    <td>1.2.5 &nbsp;</td>
+                    <td>
+                        <a href="itms-services://?action=download-manifest&amp;url=https://ucmobiledev.github.io/nh-cafe6-0228.plist" class="button">Download</a>
+                    </td>
+                </tr>
+            </tbody></table>
+            <br>
 
-</div>
+            <hr color="green">
+            
+        </div>
+
+    </div>
 </body>
 </html>
