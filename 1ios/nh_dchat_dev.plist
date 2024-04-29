@@ -29,7 +29,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.nhwm.messenger.app.id</string>
+				<string>com.nhwm.dcht.app.id</string>
 				<key>bundle-version</key>
 				<string>2.0.0</string>
 				<key>kind</key>
