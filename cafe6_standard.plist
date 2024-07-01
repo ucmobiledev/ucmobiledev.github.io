@@ -29,13 +29,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>kr.co.uclick.cafe6</string>
+				<string>com.nhwm.messenger.app.id</string>
 				<key>bundle-version</key>
-				<string>6.2.8</string>
+				<string>2.0.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>cafe6</string>
+				<string>모바일 메신저</string>
 			</dict>
 		</dict>
 	</array>
